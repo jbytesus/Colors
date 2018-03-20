@@ -1,8 +1,8 @@
-# Colors
+# MonoChromatic
 
-# Monochromatic
+A WordPress theme that was created and designed by Jamie Jones for her blog http://jaymee.blog - Jaymee [Jaymee.blog] (http://jaymee.blog) . This theme is version 2.0 and is entitled Monochromatic Colors. Please respect my work, and please give credit where it is due if you have used any snippets of code you may find in my theme. Even though I have over a decade of building, coding, creating, and designing websites and the same goes for blogging, I am still learning new tricks and applying what I have learned to my themes. If anyone has any suggestions on what could be improved on this theme, please let me know! 
 
-WordPress theme created and designed for personal blog http://jaymee.blog - Apostrophes.us [Jaymee.blog] (http://jaymee.blog) and was build by Jamie Jones. Please respect my work and don't copy snippets of code without credit. I have over a decade plus of experience working with WordPress themes and am constantly on the look out for new ways to improve my knowledge on how to create better themes for WordPress. I appreciate any suggestions anyone might have to better this theme or to help me learn new tricks to make WordPress themes load faster and less bloated and what I want it to do for myself. So please, let me know if you have anything that you might find interesting for me to learn.!
+
 
 ## Version 2.0 Monochromatic
 
@@ -11,8 +11,10 @@ WordPress theme created and designed for personal blog http://jaymee.blog - Apos
 ###### Theme includes:
 
 * A variety of Google Web Fonts
-* Sidebar has been removed and added to footer
+* Removed the sidebar and added the excerpt
 * Added a new navigation look
+* Added Post Thumbnails functions
+* Minified the Stylesheet
 * Re-added the Custom Smilies Plugin and its smilies
 * Responsive Web Design 
 * Restyled Archives page
